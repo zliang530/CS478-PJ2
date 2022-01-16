@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Edward_Liang_Project2</string>
+    <string-array
+        name="Movies">
+        <item>Spider-Man: \nFar from Home</item>
+        <item>The \nIncredibles</item>
+        <item>Captain America: \nCivil War</item>
+        <item>WALL-E</item>
+        <item>It</item>
+        <item>Insidious</item>
+        <item>Diary of a \nWimpy Kid</item>
+        <item>Deadpool</item>
+    </string-array>
+    <string-array
+        name="Directors">
+        <item>Jon Watts</item>
+        <item>Brad Bird</item>
+        <item>Anthony Russo</item>
+        <item>Andrew Stanton</item>
+        <item>Andrés Muschietti</item>
+        <item>James Wan</item>
+        <item>Thor Freudenthal</item>
+        <item>Tim Miller</item>
+    </string-array>
+    <string-array
+        name="Movies_Wikipedia">
+        <item>https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home</item>
+        <item>https://en.wikipedia.org/wiki/The_Incredibles</item>
+        <item>https://en.wikipedia.org/wiki/Captain_America:_Civil_War</item>
+        <item>https://en.wikipedia.org/wiki/WALL-E</item>
+        <item>https://en.wikipedia.org/wiki/It_(2017_film)</item>
+        <item>https://en.wikipedia.org/wiki/Insidious_(film)</item>
+        <item>https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid</item>
+        <item>https://en.wikipedia.org/wiki/Deadpool_(film)</item>
+    </string-array>
+    <string-array
+        name="Directors_Wikipedia">
+        <item>https://en.wikipedia.org/wiki/Jon_Watts</item>
+        <item>https://en.wikipedia.org/wiki/Brad_Bird</item>
+        <item>https://en.wikipedia.org/wiki/Russo_brothers</item>
+        <item>https://en.wikipedia.org/wiki/Andrew_Stanton</item>
+        <item>https://en.wikipedia.org/wiki/Andy_Muschietti</item>
+        <item>https://en.wikipedia.org/wiki/James_Wan</item>
+        <item>https://en.wikipedia.org/wiki/Thor_Freudenthal</item>
+        <item>https://en.wikipedia.org/wiki/Tim_Miller_(director)</item>
+    </string-array>
+    <string-array
+        name="Clips">
+        <item>https://www.youtube.com/watch?v=Nt9L1jCKGnE&amp;ab_channel=SonyPicturesEntertainment</item>
+        <item>https://www.youtube.com/watch?v=-UaGUdNJdRQ&amp;ab_channel=MovieclipsClassicTrailers</item>
+        <item>https://www.youtube.com/watch?v=XOKoyr_DBag&amp;ab_channel=FuriousMovies</item>
+        <item>https://www.youtube.com/watch?v=CZ1CATNbXg0&amp;ab_channel=MovieclipsClassicTrailers</item>
+        <item>https://www.youtube.com/watch?v=hAUTdjf9rko&amp;ab_channel=MovieclipsTrailers</item>
+        <item>https://www.youtube.com/watch?v=zuZnRUcoWos&amp;ab_channel=MovieclipsClassicTrailers</item>
+        <item>https://www.youtube.com/watch?v=7ZVEIgPeDCE&amp;ab_channel=TrailerDelinquent</item>
+        <item>https://www.youtube.com/watch?v=ONHBaC-pfsk&amp;ab_channel=20thCenturyStudios</item>
+    </string-array>
+</resources>
